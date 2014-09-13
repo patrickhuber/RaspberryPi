@@ -6,11 +6,13 @@ $ sudo raspi-config
 ```
 
 Update your Raspberry Pi by typing
+
 ```
 $ sudo apt-get update
 ```
 
 Now you need to upgrade you Pi, type
+
 ```
 $ sudo apt-get upgrade
 ```
